@@ -222,3 +222,8 @@ Region: asia-south1
 ### 7. Pub/Sub Message Pulled from Subscription
 ![Step 7](screenshots/7.png)
 
+📄 [View Sample PDF](demo/test_pdf.pdf)
+
+🎥 [Watch Demo Video](demo/demo.mp4)
+
+
