@@ -197,3 +197,28 @@ gcloud pubsub subscriptions pull pdf-metadata-sub --limit=1 --auto-ack
 Pranav Naik
 Project ID: pdf-metadata-extractor-464017
 Region: asia-south1
+```
+
+## 📸 Screenshots
+
+### 1. PDF Uploaded to Cloud Storage
+![Step 1](screenshots/1.png)
+
+### 2. PDF Opened and Metadata/text Extracted
+![Step 2](screenshots/2.png)
+
+### 3. PDF Opened and Metadata/text Extracted
+![Step 3](screenshots/3.png)
+
+### 4. PDF Opened and Metadata/text Extracted
+![Step 4](screenshots/4.png)
+
+### 5. GIT Repo Image
+![Step 5](screenshots/5.png)
+
+### 6. PUB-SUB
+![Step 6](screenshots/6.png)
+
+### 7. Pub/Sub Message Pulled from Subscription
+![Step 7](screenshots/7.png)
+
